@@ -9,4 +9,9 @@ public class Image{
     //getters
 
     //setters
+
+    public static void main(){
+
+        //create my image object
+    }
 }
