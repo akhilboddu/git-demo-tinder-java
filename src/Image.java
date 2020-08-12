@@ -7,6 +7,9 @@ public class Image{
     }
 
     //getters
+    public String getImage() {
+        return "Somestring";
+    }
 
     //setters
 
